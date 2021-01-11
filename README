@@ -2,7 +2,7 @@ ustatusd
 
 This daemon provides ubus notifications on OpenWrt systems. There is also a
 small cli tool that will show all notifications on stdout. Currently the
-following notifications are generated.
+following notifications are generated in the list below:
 
 * network
   - 'network.link': {"ifname":"br-lan","carrier":0}	// carrier down
